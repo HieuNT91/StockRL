@@ -1,2 +1,2 @@
 # StockRL
-A Reinforcement Learning project that implements AI bot for trading 
+Using TD3 and SAC to create Stock trading bot
